@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/jgrosskurth/rinxhc/
+    url: https://github.com/Jgrosskurth/rinxhc/tree/main
     type: markup
